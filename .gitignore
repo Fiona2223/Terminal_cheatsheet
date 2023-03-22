@@ -1,0 +1,8 @@
+#GITIGNORE FILES#
+
+> Excluding the files maintains system security rules and privileges.
+(Remember, Git repos only contain the files necessary to get tech support—not to share the entire software.) <
+
+.DS_Store
+
+README.md
